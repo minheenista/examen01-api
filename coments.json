@@ -1,0 +1,77 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "userId": 101,
+        "postId": 201,
+        "text": "Gran artículo, muy informativo. Gracias por compartir."
+      },
+      {
+        "id": 2,
+        "userId": 102,
+        "postId": 201,
+        "text": "Estoy de acuerdo contigo. Este tema es muy relevante."
+      },
+      {
+        "id": 3,
+        "userId": 103,
+        "postId": 202,
+        "text": "Me gustaría aprender más sobre este tema. ¿Puedes recomendar más lecturas?"
+      },
+      {
+        "id": 4,
+        "userId": 104,
+        "postId": 203,
+        "text": "Excelente trabajo. ¡Espero ver más publicaciones tuyas pronto!"
+      },
+      {
+        "id": 5,
+        "userId": 105,
+        "postId": 204,
+        "text": "No estoy seguro de estar de acuerdo. ¿Tienes datos que respalden esto?"
+      },
+      {
+        "id": 6,
+        "userId": 106,
+        "postId": 205,
+        "text": "Este es un tema controversial. Me gustaría escuchar diferentes opiniones."
+      },
+      {
+        "id": 7,
+        "userId": 107,
+        "postId": 206,
+        "text": "¡Wow! Este post cambió mi perspectiva por completo. Gracias."
+      },
+      {
+        "id": 8,
+        "userId": 108,
+        "postId": 207,
+        "text": "Tienes razón, este problema necesita más atención. ¿Cómo puedo ayudar?"
+      },
+      {
+        "id": 9,
+        "userId": 109,
+        "postId": 208,
+        "text": "¡Me encantaría unirme a la discusión! ¿Dónde más puedo participar?"
+      },
+      {
+        "id": 10,
+        "userId": 110,
+        "postId": 209,
+        "text": "¿Alguien más tiene opiniones similares? Me gustaría saberlo."
+      },
+      {
+        "id": 11,
+        "userId": 111,
+        "postId": 210,
+        "text": "Me parece que este tema es muy relevante en la actualidad. Gracias por compartir tus ideas."
+      },
+      {
+        "id": 12,
+        "userId": 110,
+        "postId": 207,
+        "text": "No estoy seguro de estar de acuerdo. ¿Tienes datos que respalden esto?"
+      }
+    ]
+  }
+  
